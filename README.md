@@ -1,4 +1,4 @@
-# Double Folding Potential Lab
+# Double Folding Potential
 
 A single-file, browser-based double folding model (DFM) calculator for the real part of the nucleus–nucleus optical potential, for **spherical and axially deformed nuclei**. It computes the potential from the ground-state densities of both nuclei and an effective M3Y nucleon–nucleon interaction, explains the formalism, and benchmarks the results against BiFold, DFPOT, closed-form solutions and a brute-force 6-D reference.
 
